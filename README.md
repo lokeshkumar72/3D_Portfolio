@@ -8,7 +8,7 @@
 
 ## 📸 Project Preview
 
-\<p align="center"> \<img src="./src/assets/images/screesnshot.png" alt="3D Portfolio Homepage" width="100%" /> \</p>
+\<p align="center"> \<img src="./screenshots/homepage.png" alt="3D Portfolio Homepage" width="100%" /> \</p>
 
 \<p align="center"> \<i>Homepage preview of my interactive 3D developer portfolio.\</i> \</p>
 
